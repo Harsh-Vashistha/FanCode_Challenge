@@ -1,3 +1,6 @@
+Download Apk for here : [Apk Link](https://drive.google.com/file/d/1JqtYCJKPdqexoCtlZAXnK_jJFlZ43SA6/view?usp=sharing)
+--  Watch video of working apk here: [Video Link](https://drive.google.com/file/d/1wZV1J-Xxugd5pr6HOvjmJukyakPacxhH/view?usp=sharing)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
