@@ -7,7 +7,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-Please ensure you setup node>=18 and java 17 to run application.
+**Please ensure you setup node>=18 and java 17 to run application.**
 
 ## Step 1: Start the Metro Server
 
